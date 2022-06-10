@@ -1,0 +1,15 @@
+.section-btn {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.next-btn {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 1rem;
+}
+
+body {
+    color: aliceblue;
+}
